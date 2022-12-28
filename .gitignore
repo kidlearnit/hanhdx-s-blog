@@ -3,7 +3,3 @@
 
 # Package Files
 node_modules/
-
-[submodule "themes/LoveIt"] 
-  path = themes/LoveIt 
-  url = git://themes/LoveIt/
